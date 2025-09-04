@@ -116,5 +116,3 @@ winner = board.check_winner()
         print("It's a Draw!")
         break
 client_socket.close()
-
-client_socket.close()
