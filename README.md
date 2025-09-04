@@ -1,4 +1,4 @@
-#server code
+# server code
 import socket
 import pickle
 
